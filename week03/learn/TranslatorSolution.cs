@@ -40,7 +40,6 @@ public class TranslatorSolution
         {
             newWord = _words[fromWord];
         }
-
         return newWord;
     }
 }
